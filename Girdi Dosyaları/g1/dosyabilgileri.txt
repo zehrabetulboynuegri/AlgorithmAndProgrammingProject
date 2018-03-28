@@ -1,0 +1,6 @@
+Bu dosya bilgi amaçlýdýr. Projede kullanýlmayacaktýr.
+Takým sayýsý: 4
+Her bir takýmdaki futbolcu sayýsý: 3
+Bir maçtaki en çok gol sayýsý: 5
+Kendi kalesine gol oraný: 0.05
+Dosyalardaki satýr sonu karakteri: \n

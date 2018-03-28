@@ -1,0 +1,10 @@
+0 Golyaka City
+1 Pazar County
+2 Avanos County
+3 Han County
+4 Kahta Utd.
+5 Egirdir Utd.
+6 Maden Rangers
+7 Candir City
+8 Ardesen City
+9 Beyagac Utd.

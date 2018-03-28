@@ -1,0 +1,10 @@
+0 Islahiye County
+1 Germencik Spor
+2 Anamur County
+3 Evren County
+4 Pinarbasi County
+5 Yuksekova City
+6 Sarigol Rangers
+7 Suruc Rangers
+8 Karabaglar Rangers
+9 Persembe Spor
